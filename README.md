@@ -10,6 +10,7 @@ Read the local project record before implementation:
 - [Technical stack](docs/tech-stack.md)
 - [Build plan](docs/build-plan.md)
 - [Protocol specification](docs/protocol-spec.md)
+- [Phase 1 status](docs/phase-1.md)
 
 ## Initial layout
 
