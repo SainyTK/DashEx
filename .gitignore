@@ -1,0 +1,26 @@
+# Rust and Anchor
+/target/
+**/*.rs.bk
+.Anchor.toml.local
+
+# Node and Next.js
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Solana keys and local ledgers
+*.json.key
+test-ledger/
+.localnet/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
